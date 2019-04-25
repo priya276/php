@@ -1,4 +1,4 @@
 <?php
-  echo "samala sai shiva!";
+  echo "samala sahhhhi shiva!";
   echo "PHP is so easy!";
 ?>
